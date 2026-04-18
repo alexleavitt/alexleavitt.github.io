@@ -1,0 +1,18 @@
+title: "Alex Leavitt, PhD"
+description: "Social scientist and internet researcher specializing in trust & safety, misinformation, and platform policy."
+url: "https://alexleavitt.net"
+baseurl: ""
+github:
+  repository: "alexleavitt/alexleavitt.github.io"
+
+permalink: pretty
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+sass:
+  style: compressed

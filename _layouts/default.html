@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: "Alex Leavitt, PhD" }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" type="image/x-icon" href="/assets/favicon/favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="/" class="nav-logo">Alex Leavitt, PhD</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="nav-menu">
+        <ul class="nav-links">
+          <li><a href="/" class="{% if page.url == '/' %}active{% endif %}">About</a></li>
+          <li><a href="/work/" class="{% if page.url == '/work/' %}active{% endif %}">Work</a></li>
+          <li><a href="/publications/" class="{% if page.url == '/publications/' %}active{% endif %}">Publications</a></li>
+          <li><a href="/creative/" class="{% if page.url == '/creative/' %}active{% endif %}">Creative</a></li>
+          <li><a href="/contact/" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="footer">
+    <div class="footer-container">
+      <p>&copy; {{ site.time | date: "%Y" }} Alex Leavitt. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="/js/main.js"></script>
+</body>
+</html>

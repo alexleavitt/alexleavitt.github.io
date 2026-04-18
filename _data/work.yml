@@ -1,0 +1,351 @@
+- title: "LGBTQ+ Safety Research/Resources"
+  category: "lgbtq"
+  image: "/assets/img/portfolio/thumbnails/lgbtqsafety.png"
+  description: "Global LGBTQ+ risk assessment & user-facing resources"
+  links:
+    - text: "Product Link"
+      url: "https://about.fb.com/news/2022/06/celebrating-pride-with-lgbtq-communities-and-creators/"
+
+- title: "Corporate ESG Strategy"
+  category: "strategy"
+  image: "/assets/img/portfolio/thumbnails/corpesg.png"
+  description: "Strategic prioritization for social corporate responsibility assessments"
+  links:
+    - text: "Resource Link"
+      url: "https://investor.fb.com/esg-resources/default.aspx"
+
+- title: "Foundational Integrity Research Grant Program"
+  category: "research"
+  image: "/assets/img/portfolio/thumbnails/integrityfund.png"
+  description: "Multi-million dollar academic research grant program"
+  links:
+    - text: "Program Link"
+      url: "https://research.facebook.com/research-awards/2022-foundational-integrity-research-request-for-proposals/"
+
+- title: "Ukraine/Russia War Humanitarian Response"
+  category: "crisis"
+  image: "/assets/img/portfolio/thumbnails/ukraine.png"
+  description: "Humanitarian & authoritative information products & company strategy"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2022/02/metas-ongoing-efforts-regarding-russias-invasion-of-ukraine/"
+
+- title: "Viewpoints Survey Platform"
+  category: "product"
+  image: "/assets/img/portfolio/thumbnails/viewpoints.png"
+  description: "International expansion of survey program/infrastructure"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2019/11/introducing-facebook-viewpoints/"
+
+- title: "Australia News Strategy"
+  category: "policy"
+  image: "/assets/img/portfolio/thumbnails/australianews.png"
+  description: "Regulatory product strategy"
+  links:
+    - text: "Product/Policy News"
+      url: "https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/"
+
+- title: "Human Rights & Countries At Risk of Violence"
+  category: "human-rights"
+  image: "/assets/img/portfolio/thumbnails/humanrights.png"
+  description: "Prioritization frameworks, international research fieldwork, cross-org product/operations strategy"
+  links:
+    - text: "Product/Policy News"
+      url: "https://about.fb.com/news/2021/10/approach-to-countries-at-risk/"
+
+- title: "Polarization Strategy"
+  category: "research"
+  image: "/assets/img/portfolio/thumbnails/polarstrat.png"
+  description: "Corporate product & research strategy"
+  links:
+    - text: "Research News"
+      url: "https://www.buzzfeednews.com/article/ryanmac/facebook-execs-polarization-playbook"
+
+- title: "Vaccine Campaign Evaluation"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/vaccinecampaignimpact.png"
+  description: "Vaccine messaging & product interventions"
+  links:
+    - text: "Research News"
+      url: "https://research.facebook.com/blog/2022/4/new-lessons-learned-in-building-covid-19-vaccine-acceptance/"
+    - text: "Affiliated Publication"
+      url: "https://www.pnas.org/doi/10.1073/pnas.2208110120"
+
+- title: "COVID/Vaccine Trusted Messengers & Misinfo"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/covidauthinfo.png"
+  description: "Pandemic & vaccine authoritative information from trusted messengers & related misinformation products"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2020/04/covid-19-misinfo-update/"
+    - text: "Product Expansion"
+      url: "https://about.fb.com/news/2021/04/supporting-equitable-access-to-covid-19-vaccines/"
+
+- title: "COVID/Vaccine Content Policies"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/covidpolicies.png"
+  description: "Research-informed policy development & prioritization around pandemic content trends"
+  links:
+    - text: "Policy Link"
+      url: "https://www.facebook.com/help/230764881494641/"
+
+- title: "COVID Product Impact Measurement"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/covidgoals.png"
+  description: "Cross-org product & impact measurement strategy"
+  links:
+    - text: "Research News"
+      url: "https://about.fb.com/news/2021/03/mark-zuckerberg-announces-facebooks-plans-to-help-get-people-vaccinated-against-covid-19/"
+
+- title: "US State Targeted Vaccine Action/Access Products"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/localvaccineaction.png"
+  description: "Vaccination access & action products"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2021/04/state-covid-19-vaccine-information/"
+
+- title: "COVID Vaccine Profile Frames"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/vaccineprofileframes.png"
+  description: "Social influence COVID/vaccine messaging & products"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2021/04/encourage-your-friends-to-get-a-covid-19-vaccine/"
+
+- title: "COVID Mask Wearing Messaging"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/covidmasks.png"
+  description: "COVID public health messaging campaigns & authoritative information products"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2020/12/coronavirus/"
+
+- title: "COVID-19 Misinformation Messaging"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/covidmisinfocampaigns.png"
+  description: "COVID misinformation messaging campaigns & authoritative information products"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2020/04/covid-19-misinfo-update/"
+
+- title: "COVID-19 Misinformation Reminders"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/covidmisinforeminders.png"
+  description: "COVID misinformation targeted intervention products"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2020/04/covid-19-misinfo-update/"
+
+- title: "COVID Info Center"
+  category: "covid"
+  image: "/assets/img/portfolio/thumbnails/covidinfocenter.png"
+  description: "COVID authoritative information products & company strategy"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2020/12/coronavirus/"
+
+- title: "Ethiopia Risk Assessment"
+  category: "human-rights"
+  image: "/assets/img/portfolio/thumbnails/ethiopia.png"
+  description: "Trust & Safety country risk assessment & international research fieldwork"
+  links:
+    - text: "Product/Policy News"
+      url: "https://about.fb.com/news/2021/11/update-on-ethiopia/"
+
+- title: "Trusted Partners Program"
+  category: "policy"
+  image: "/assets/img/portfolio/thumbnails/trustedpartners.png"
+  description: "Activist & civil society consultation & content reporting program"
+  links:
+    - text: "Product/Policy News"
+      url: "https://transparency.fb.com/policies/improving/bringing-local-context"
+
+- title: "Sri Lanka Human Rights Assessment"
+  category: "human-rights"
+  image: "/assets/img/portfolio/thumbnails/srilanka.png"
+  description: "Trust & Safety country risk assessment & international research fieldwork"
+  links:
+    - text: "Policy/Research News"
+      url: "https://about.fb.com/news/2020/05/human-rights-work-in-asia/"
+
+- title: "Polarization Research & Product"
+  category: "research"
+  image: "/assets/img/portfolio/thumbnails/polarization.png"
+  description: "Corporate product & research strategy for measurement & interventions"
+  links:
+    - text: "Research News"
+      url: "https://about.fb.com/news/2020/05/investments-to-fight-polarization/"
+    - text: "Affiliated Publication"
+      url: "https://tictec.mysociety.org/tictec-archive/2018/presentation/facebook.html"
+
+- title: "Image Context / Message Friction Products"
+  category: "misinformation"
+  image: "/assets/img/portfolio/thumbnails/arcproducts.png"
+  description: "Severe content risks & misinformation intervention products"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2020/08/preparing-for-myanmars-2020-election/"
+
+- title: "Social Media & Conflict (Cameroon)"
+  category: "human-rights"
+  image: "/assets/img/portfolio/thumbnails/socialmediaconflict.png"
+  description: "Trust & Safety country risk assessment & international research fieldwork"
+  links:
+    - text: "Product/Policy/Research News"
+      url: "https://about.fb.com/news/2019/06/social-media-and-conflict/"
+
+- title: "Misinformation Community Review"
+  category: "misinformation"
+  image: "/assets/img/portfolio/thumbnails/communityreview.png"
+  description: "Crowd-driven misinformation evaluation products & infrastructure"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2019/12/helping-fact-checkers/"
+    - text: "Research News"
+      url: "https://about.fb.com/news/2019/04/tackling-more-false-news-more-quickly/"
+
+- title: "Borderline Content"
+  category: "content"
+  image: "/assets/img/portfolio/thumbnails/borderlinecontent.png"
+  description: "Strategic research & measurement for product strategy & content policies"
+  links:
+    - text: "Product/Policy News"
+      url: "https://about.fb.com/news/2019/04/remove-reduce-inform-new-steps/"
+
+- title: "Hateful Stereotype Policy"
+  category: "policy"
+  image: "/assets/img/portfolio/thumbnails/hatefulstereotypes.png"
+  description: "Research-informed policy development & expansion for hate speech content policy"
+  links:
+    - text: "Policy News"
+      url: "https://about.fb.com/news/2020/11/measuring-progress-combating-hate-speech/"
+
+- title: "2018 US Midterms Risk Assessment"
+  category: "elections"
+  image: "/assets/img/portfolio/thumbnails/usmidterm2018risks.png"
+  description: "Cross-organization risk assessments & research strategy for elections"
+  links:
+    - text: "Product/Research News"
+      url: "https://about.fb.com/news/2018/10/war-room/"
+
+- title: "Content Quality & Intervention Strategy"
+  category: "content"
+  image: "/assets/img/portfolio/thumbnails/contentquality.png"
+  description: "Strategic research & measurement for product strategy & content policies"
+  links:
+    - text: "Product/Research News"
+      url: "https://about.fb.com/news/2018/05/inside-feed-reduce-remove-inform/"
+
+- title: "Myanmar Product & Policy"
+  category: "human-rights"
+  image: "/assets/img/portfolio/thumbnails/myanmar.png"
+  description: "Trust & Safety country risk assessment & international research fieldwork"
+  links:
+    - text: "Product/Policy News"
+      url: "https://about.fb.com/news/2018/08/update-on-myanmar/"
+
+- title: "International Fact-Checking Expansion"
+  category: "misinformation"
+  image: "/assets/img/portfolio/thumbnails/i18nfactchecking.png"
+  description: "International research fieldwork & expert workshops for fact-checking program expansion"
+  links:
+    - text: "Product News"
+      url: "https://www.facebook.com/formedia/mjp/programs/third-party-fact-checking/partner-map"
+
+- title: "Broadly-Trusted News Ranking"
+  category: "content"
+  image: "/assets/img/portfolio/thumbnails/broadtrust.png"
+  description: "News content strategic research & ranking product interventions"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2018/01/trusted-sources/"
+    - text: "Patent Link"
+      url: "https://patentimages.storage.googleapis.com/de/55/f5/11efb0e45e4a03/US20190109871A1.pdf"
+
+- title: "Context Button Product"
+  category: "misinformation"
+  image: "/assets/img/portfolio/thumbnails/contextbutton.png"
+  description: "Authoritative information & misinformation intervention product development"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2018/04/inside-feed-article-context/"
+    - text: "Research News"
+      url: "https://about.fb.com/news/2018/04/news-feed-fyi-more-context/"
+
+- title: "Related Articles Product"
+  category: "misinformation"
+  image: "/assets/img/portfolio/thumbnails/relatedarticles.png"
+  description: "Authoritative information & misinformation intervention product development"
+  links:
+    - text: "Product Expansion News"
+      url: "https://about.fb.com/news/2017/12/news-feed-fyi-updates-in-our-fight-against-misinformation/"
+    - text: "Product Launch News"
+      url: "https://about.fb.com/news/2017/04/news-feed-fyi-new-test-with-related-articles/"
+
+- title: "Informed Sharing Ranking"
+  category: "content"
+  image: "/assets/img/portfolio/thumbnails/informedsharing.png"
+  description: "News content strategic research & ranking product interventions"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2016/12/news-feed-fyi-addressing-hoaxes-and-fake-news/"
+
+- title: "Political Perspectives Product"
+  category: "elections"
+  image: "/assets/img/portfolio/thumbnails/politicalperspectives.png"
+  description: "Civic engagement & authoritative information products for elections"
+  links:
+    - text: "Product News (UK Election)"
+      url: "https://www.independent.co.uk/tech/facebook-perspectives-election-2017-manifesto-tool-what-is-it-how-does-it-work-a7763921.html"
+    - text: "Product News (France Election)"
+      url: "https://about.fb.com/fr/news/2017/04/facebook-lance-un-outil-pour-faciliter-lacces-aux-programmes-des-candidats-a-la-presidentielle/"
+
+- title: "Misinformation Labels Product"
+  category: "misinformation"
+  image: "/assets/img/portfolio/thumbnails/disputedflag.png"
+  description: "Authoritative information & misinformation intervention product development"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2016/12/news-feed-fyi-addressing-hoaxes-and-fake-news/"
+
+- title: "Clickbait Analysis & Ranking"
+  category: "content"
+  image: "/assets/img/portfolio/thumbnails/clickbait.png"
+  description: "Content quality strategic research & ranking product interventions"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2016/08/news-feed-fyi-further-reducing-clickbait-in-feed/"
+
+- title: "Reactions Products"
+  category: "product"
+  image: "/assets/img/portfolio/thumbnails/reactions.png"
+  description: "Content features international expansion & design iteration"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2016/02/reactions-now-available-globally/"
+
+- title: "Conversations Products"
+  category: "product"
+  image: "/assets/img/portfolio/thumbnails/conversations.png"
+  description: "Strategic research & iterative product development for conversational products"
+  links:
+    - text: "Research Link"
+      url: "https://tictec.mysociety.org/tictec-archive/2018/presentation/facebook.html"
+
+- title: "News Feed Quality Ranking"
+  category: "content"
+  image: "/assets/img/portfolio/thumbnails/feedquality.png"
+  description: "Content quality strategic research"
+  links:
+    - text: "Product News"
+      url: "https://about.fb.com/news/2016/06/building-a-better-news-feed-for-you/"
+
+- title: "Topic Feeds Product"
+  category: "product"
+  image: "/assets/img/portfolio/thumbnails/topicfeeds.png"
+  description: "Strategic research for iterative product development"
+  links:
+    - text: "Product News"
+      url: "https://www.cnbc.com/2016/05/26/facebook-wants-your-news-feed-to-get-more-personal-heres-why.html"

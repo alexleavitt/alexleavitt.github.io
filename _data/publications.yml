@@ -1,0 +1,215 @@
+- title: "Mindsets Matter: How Beliefs About Facebook Moderate the Association Between Time Spent on Social Media and Well-Being"
+  category: "research"
+  image: "/assets/img/portfolio/thumbnails/mindsetsfacebook.png"
+  description: "Study of self-reported social media use, well-being, and perspectives on the impact of social media"
+  methods: "international surveys, log data analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/pdf/10.1145/3491102.3517569"
+
+- title: "How Well Do People Report Time Spent on Facebook? An Evaluation of Established Survey Questions with Recommendations"
+  category: "methods"
+  image: "/assets/img/portfolio/thumbnails/facebookselfreport.png"
+  description: "Study of self-reported social media use & well-being"
+  methods: "international surveys, log data analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/pdf/10.1145/3313831.3376435"
+
+- title: "Upvote My News: The Practices of Peer Information Aggregation for Breaking News on reddit.com"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/redditlive.png"
+  description: "Study of collaborative breaking news reporting on a social news platform"
+  methods: "content analysis, ethnographic observation, computational analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/10.1145/3134700"
+
+- title: "Designing New Ways to Give Context to News Stories"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/articlecontextpub2.png"
+  description: "Study of iterative authoritative information product development"
+  methods: "international research, interviews, focus groups, concept testing, card sorting, eye tracking, surveys, experiments"
+  links:
+    - text: "Article HTML"
+      url: "https://about.fb.com/news/2018/04/inside-feed-article-context/"
+
+- title: "Helping People Better Assess the Stories They See in News Feed with the Context Button"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/articlecontextpub1.png"
+  description: "Study of iterative authoritative information product development"
+  methods: "international research, interviews, focus groups, concept testing, card sorting, eye tracking, surveys, experiments"
+  links:
+    - text: "Article HTML"
+      url: "https://about.fb.com/news/2018/04/news-feed-fyi-more-context/"
+
+- title: "Beyond Big Bird, Binders, and Bayonets: Humor and Visibility Among Connected Viewers of the 2012 US Presidential Debates"
+  category: "politics"
+  image: "/assets/img/portfolio/thumbnails/twitterhumor.png"
+  description: "Study of election-related social media content quality trends & user-generated content production"
+  methods: "computational analysis, content analysis, regression"
+  links:
+    - text: "Article PDF"
+      url: "https://journals.sagepub.com/doi/epub/10.1177/2056305118761201"
+
+- title: "The Role of Information Visibility in Network Gatekeeping: Information Aggregation on Reddit during Crisis Events"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/redditparis.png"
+  description: "Study of collaborative breaking news reporting on a social news platform"
+  methods: "content analysis, ethnographic observation, computational analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/10.1145/2998181.2998299"
+
+- title: "Jumping for Fun? Negotiating Mobility and the Geopolitics of Foursquare"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/jumpers.png"
+  description: "Study of international users' debates around legitimate participation on location-based social media app"
+  methods: "discourse analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://journals.sagepub.com/doi/epub/10.1177/2056305116665859"
+
+- title: "Producing Hatsune Miku: Concerts, Commercialization, and the Politics of Peer Production"
+  category: "culture"
+  image: "/assets/img/portfolio/thumbnails/mikuchapter.png"
+  description: "Study of Japanese media subcultures & community politics"
+  methods: "ethnographic participant observation, interviews, historical analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://ia800405.us.archive.org/31/items/MediaConvergenceInJapan/Media%20Convergence%20in%20Japan.pdf"
+
+- title: "Ping to Win? Non-Verbal Communication and Team Performance in Competitive Online Multiplayer Games"
+  category: "games"
+  image: "/assets/img/portfolio/thumbnails/pings.png"
+  description: "Study of micro-communication features and impact on performance in an online multiplayer game"
+  methods: "computational analysis, spatial analysis, regression"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/10.1145/2858036.2858132"
+
+- title: "Do Men Advance Faster Than Women? Debunking the Gender Performance Gap in Two Massively Multiplayer Online Games"
+  category: "games"
+  image: "/assets/img/portfolio/thumbnails/chevromance.png"
+  description: "Study of gender-based differences in online multiplayer video game performance"
+  methods: "computational analysis, regression"
+  links:
+    - text: "Article PDF"
+      url: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/jcc4.12159"
+
+- title: "[Dissertation] Upvoting the News: Breaking News Aggregation, Crowd Collaboration, and Algorithm-Driven Attention on reddit.com"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/dissertation.png"
+  description: "Study of collaborative breaking news reporting on a social news platform"
+  methods: "content analysis, ethnographic observation, computational analysis"
+  links:
+    - text: "Dissertation PDF"
+      url: "https://digitallibrary.usc.edu/Share/38h6c64cuf3814t5q445rje47i4pi064"
+
+- title: "Uses of Multiple Characters in Online Games and Their Implications for Social Network Methods"
+  category: "games"
+  image: "/assets/img/portfolio/thumbnails/multeve.png"
+  description: "Study of multiple-account use in an online multiplayer game"
+  methods: "social network analysis, computational analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/10.1145/2818048.2819980"
+
+- title: "Virtual Team Networks: How Group Social Capital Affects Team Success in a Massively Multiplayer Online Game"
+  category: "games"
+  image: "/assets/img/portfolio/thumbnails/dragonnest.png"
+  description: "Study of collaborative gameplay & social capital within online multiplayer games"
+  methods: "social network analysis, computational analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/pdf/10.1145/2818048.2819935"
+
+- title: "Throwaway Accounts"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/throwaway.png"
+  description: "Study of anonymity/pseudonymity user practices on reddit"
+  methods: "computational analysis, survey, regression"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/10.1145/2675133.2675175"
+
+- title: "Upvoting Sandy"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/sandy.png"
+  description: "Study of collaborative breaking news reporting on a social news platform"
+  methods: "content analysis, ethnographic observation, computational analysis, regression"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/10.2556288.2557140"
+
+- title: "Technology Non-Use"
+  category: "research"
+  image: "/assets/img/portfolio/thumbnails/nonuse.png"
+  description: "Exploratory analysis of theory around technology non-use"
+  methods: "literature review, theoretical analysis"
+  links:
+    - text: "Article PDF"
+      url: "http://nonuse.jedbrubaker.com/wp-content/uploads/2014/03/NonUse_CHI_AlexLeavitt_final.pdf"
+
+- title: "Minecraft and User-Generated Content"
+  category: "games"
+  image: "/assets/img/portfolio/thumbnails/minecraftmods.png"
+  description: "Study of players of Minecraft & user-generated content practices"
+  methods: "content analysis, interviews, ethnographic participant observation"
+  links:
+    - text: "Article PDF"
+      url: "https://spir.aoir.org/ojs/index.php/spir/article/download/9061/7152"
+
+- title: "YOLO: Twitter and the Social Life of the Hashtag"
+  category: "culture"
+  image: "/assets/img/portfolio/thumbnails/yolo.png"
+  description: "Study of historical and empirical content trends related to internet memes on Twitter"
+  methods: "computational analysis, text analysis, social network analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://alexleavitt.net/media/2014_PeterLang_TwitterAndSociety.pdf"
+
+- title: "Monkey Activism: Japanese Media Subcultures and Potential for Activism"
+  category: "culture"
+  image: "/assets/img/portfolio/thumbnails/monkey.png"
+  description: "Study of Japanese media subcultures & potential for activism in media production"
+  methods: "content analysis, historical analysis, discourse analysis"
+  links:
+    - text: "Article HTML"
+      url: "https://journal.transformativeworks.org/index.php/twc/article/view/321/311"
+
+- title: "Self-Harm & Risks for Teens on Social Media"
+  category: "research"
+  image: "/assets/img/portfolio/thumbnails/selfharm.png"
+  description: "Review study of social media platform features & policies related to self-harm"
+  methods: "literature review, competitor analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://www.danah.org/papers/2011/IS-ProSelfHarm.pdf"
+
+- title: "Web Ecology - ChatRoulette"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/chatroulette.png"
+  description: "Study of emergent social media platform & anonymity"
+  methods: "content analysis"
+  links:
+    - text: "Article PDF"
+      url: "http://www.webecologyproject.org/wp-content/uploads/2010/03/WEP-chatroulette.pdf"
+
+- title: "Web Ecology - Influence"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/webecoinfluence.png"
+  description: "Study of Twitter messaging production & interaction trends"
+  methods: "computational analysis, data visualization"
+  links:
+    - text: "Article PDF"
+      url: "http://www.webecologyproject.org/wp-content/uploads/2009/09/influence-report-final.pdf"
+
+- title: "Web Ecology - Iran"
+  category: "platforms"
+  image: "/assets/img/portfolio/thumbnails/webecoiran.png"
+  description: "Study of Twitter data trends around the 2012 Iranian elections"
+  methods: "computational analysis"
+  links:
+    - text: "Article PDF"
+      url: "http://www.webecologyproject.org/wp-content/uploads/2009/08/WEP-twitterFINAL.pdf"

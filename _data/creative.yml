@@ -1,0 +1,62 @@
+- title: "Hearts Legacy"
+  image: "/assets/img/portfolio/thumbnails/hearts.png"
+  description: "An experimental \"legacy\" board game developed from the basic card game, Hearts."
+  links:
+    - text: "Project Page"
+      url: "https://alexleavitt.net/heartslegacy/"
+
+- title: "Alice Down the Neural Network"
+  image: "/assets/img/portfolio/thumbnails/aliceneural.png"
+  description: "An exploration of applying generative deep learning to Alice in Wonderland."
+  links:
+    - text: "Project Page"
+      url: "https://docs.google.com/document/d/13rsavAPvAxHY6Imi7M-UNLCuIsdVz9w5oOhEiLtc7IM/edit"
+
+- title: "College Plays Pokemon"
+  image: "/assets/img/portfolio/thumbnails/collegepokemon.png"
+  description: "An experimental interactive media installation, building off of TwitchPlaysPokemon."
+  links:
+    - text: "Project Page"
+      url: "https://github.com/janmtl/cameraplaysemulator"
+
+- title: "Twitch Played Pokemon"
+  image: "/assets/img/portfolio/thumbnails/twitchplayed.png"
+  description: "A lecture and data analysis delivered at GDC about the TwitchPlaysPokemon phenomenon."
+  links:
+    - text: "Project Video"
+      url: "https://gdcvault.com/play/1021438/"
+
+- title: "Happy Birthday to Us"
+  image: "/assets/img/portfolio/thumbnails/happybirthday.png"
+  description: "An experimental web app that generates YouTube videos singing Happy Birthday with custom names."
+  links:
+    - text: "Project Page"
+      url: "http://happybirthdayto.alexleavitt.net/"
+
+- title: "Global Reddit Meetup Day 2014"
+  image: "/assets/img/portfolio/thumbnails/redditmeetup.png"
+  description: "Reddit's annual Global Reddit Meetup Day, organized in Los Angeles 2014."
+  links:
+    - text: "Project Page"
+      url: "https://www.reddit.com/r/LosAngeles/comments/287ksr/global_reddit_meetup_day_aftermath_and_picture/"
+
+- title: "Connecting America [Hackathon Project]"
+  image: "/assets/img/portfolio/thumbnails/lahackathon.png"
+  description: "First-prize winning hackathon project using open-source immigration data."
+  links:
+    - text: "Project Page"
+      url: "https://alexleavitt.net/lahack/"
+
+- title: "The Hidden Value of Punching Trees"
+  image: "/assets/img/portfolio/thumbnails/punchingtrees.png"
+  description: "Research lecture presented at Penny Arcade Expo 2011 on Minecraft & game culture."
+  links:
+    - text: "Project Video"
+      url: "https://www.youtube.com/watch?v=SXqoNx0bOqI"
+
+- title: "The Cult of Hatsune Miku"
+  image: "/assets/img/portfolio/thumbnails/pacificasia.png"
+  description: "Invited research lecture presented at USC Pacific Asia Museum."
+  links:
+    - text: "Project Page"
+      url: "https://uscpacificasiamuseum.wordpress.com/2011/11/03/active-cultures-is-back/"

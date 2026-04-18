@@ -1,0 +1,51 @@
+---
+layout: default
+title: "Publications - Alex Leavitt, PhD"
+---
+
+<section class="hero" style="padding: 3rem 0 2rem;">
+  <div class="container">
+    <h1>Academic & Industry Publications</h1>
+    <p class="hero-subtitle">
+      My portfolio of academic, peer-reviewed publications span research on social media platforms, online multiplayer video games, and trust & safety.
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="tag-section">
+      <span class="filter-label">Filter by:</span>
+      <div class="tags">
+        <span class="tag active" data-filter="all">All</span>
+        <span class="tag" data-filter="platforms">Platforms</span>
+        <span class="tag" data-filter="games">Games</span>
+        <span class="tag" data-filter="culture">Culture</span>
+        <span class="tag" data-filter="research">Research</span>
+        <span class="tag" data-filter="methods">Methods</span>
+        <span class="tag" data-filter="politics">Politics</span>
+      </div>
+    </div>
+
+    <div class="grid grid-3">
+      {% for item in site.data.publications %}
+      <div class="card" data-category="{{ item.category }}">
+        <div class="card-image">
+          <img src="{{ item.image }}" alt="{{ item.title }}" loading="lazy">
+        </div>
+        <div class="card-content">
+          <p class="card-category">{{ item.category }}</p>
+          <h3 class="card-title">{{ item.title }}</h3>
+          <p class="card-description">{{ item.description }}</p>
+          <p style="font-size: 0.8125rem; color: var(--color-text-muted); margin-bottom: 0.75rem;"><i><b>Methods:</b> {{ item.methods }}</i></p>
+          <div class="card-links">
+            {% for link in item.links %}
+            <a href="{{ link.url }}" target="_blank" class="btn btn-outline btn-sm">{{ link.text }}</a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
