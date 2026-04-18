@@ -130,6 +130,19 @@ main {
 .hero {
   padding: 6rem 0 4rem;
   text-align: center;
+  background-image: url(/assets/img/3.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero .container {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 2rem;
+  border-radius: 8px;
 }
 
 .hero h1 {
@@ -137,13 +150,11 @@ main {
   font-weight: 700;
   margin: 0 0 1rem;
   letter-spacing: -0.02em;
+  color: white;
 }
 
-.hero-subtitle {
-  font-size: 1.25rem;
-  color: var(--color-text-muted);
-  max-width: 600px;
-  margin: 0 auto 2rem;
+.hero .hero-subtitle {
+  color: #eee;
 }
 
 .hero-subtitle b {
