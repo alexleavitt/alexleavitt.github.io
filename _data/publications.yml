@@ -1,3 +1,12 @@
+- title: "In Suspense About Suspensions? The Relative Effectiveness of Suspension Durations on a Popular Social Platform"
+  category: "research"
+  image: "/assets/img/portfolio/thumbnails/suspensionsroblox.png"
+  description: "Study of suspension duration and impact on reoffense behaviors on Roblox"
+  methods: "expermient, log data analysis"
+  links:
+    - text: "Article PDF"
+      url: "https://dl.acm.org/doi/full/10.1145/3706598.3713163"
+
 - title: "Mindsets Matter: How Beliefs About Facebook Moderate the Association Between Time Spent on Social Media and Well-Being"
   category: "research"
   image: "/assets/img/portfolio/thumbnails/mindsetsfacebook.png"
