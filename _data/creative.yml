@@ -1,9 +1,23 @@
+- title: "Undersight Board"
+  image: "/assets/img/portfolio/thumbnails/undersight.png"
+  description: "Parody concept of the Meta Oversight Board, utilizing global AI agents in a multi-stakeholder consensus framework for policy judgements. Winner of the <a href="https://www.trustsafety.net/apply-for-the-trust-safety-hackathon-july-9-2023/" target=_ref>2023 Trust & Safety Hackathon</a>."
+  links:
+    - text: "Project Page"
+      url: "https://undersightboard.github.io/"
+
 - title: "Hearts Legacy"
   image: "/assets/img/portfolio/thumbnails/hearts.png"
   description: "An experimental \"legacy\" board game developed from the basic card game, Hearts."
   links:
     - text: "Project Page"
       url: "https://alexleavitt.net/heartslegacy/"
+
+- title: "High-Tempo Peer Information Aggregation in Response to Developing Events"
+  image: "/assets/img/portfolio/thumbnails/stanford.png"
+  description: "Lecture at Stanford University about my dissertation research on Reddit and information collaboration during crises."
+  links:
+    - text: "Project Page"
+      url: "https://www.youtube.com/watch?v=Mfg8NX96-mE"
 
 - title: "Alice Down the Neural Network"
   image: "/assets/img/portfolio/thumbnails/aliceneural.png"
